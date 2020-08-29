@@ -19,10 +19,13 @@ fieldset {
         display: none;
     };
 }
-
+/* 
 .jumbotron{
     background-color:white;
-}
+} */
 #one{
     font-size: 1.25em;
+}
+.two{
+    font-size:1.2em ;
 }
